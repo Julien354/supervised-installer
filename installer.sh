@@ -16,7 +16,7 @@ echo 'Please typ "not supported" to continue this installation'
 read x
 if [ "$x" != "not supported" ]
 then
-  echo "OK, bye!"
+  echo 'OK, bye!'
   exit 1
 fi
 
